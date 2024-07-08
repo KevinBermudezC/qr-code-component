@@ -20,13 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![imagen](./screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/KevinBermudezC/qr-code-component)
+- Live Site URL: [Live site URL here](https://kevinbermudezc.github.io/qr-code-component/)
 
 ## My process
 
@@ -54,7 +54,7 @@ I was able to use a lot of Flexbox in this project.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will try to learn a better way to understand those tools, and i will add frameworks.
 
 ## Author
 
