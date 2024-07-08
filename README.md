@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![imagen](./screenshot.jpg)
+![imagen](https://github.com/KevinBermudezC/qr-code-component/blob/885d6a1ef7ffe14e6b5732031d9b1d6fa3c6b6a6/images/Screenshot%202024-07-07%20203431.png)
 
 
 ### Links
@@ -54,7 +54,7 @@ I was able to use a lot of Flexbox in this project.
 
 ### Continued development
 
-I will try to learn a better way to understand those tools, and i will add frameworks.
+I'll try to learn a better way to understand those tools, and I'll add frameworks.
 
 ## Author
 
