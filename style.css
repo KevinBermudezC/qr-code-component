@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+:root{
+    --white:hsl(0, 0%, 100%);
+    --lightGray:hsl(212, 45%, 89%);
+    --GrayishBlue: hsl(220, 15%, 55%);
+    --DarkBlue: hsl(218, 44%, 22%);
+    --font: "Outfit", sans-serif;
+}
+/* Global */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--lightGray);
+    height: 100vh;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+/* Main */
+.container,
+.container__qr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+.container__qr{
+    background-color: var(--white);
+    border-radius: 20px;
+    width: 320px;
+
+}
+.qr{
+    margin-top: 16px;
+    width: 288px;
+    border-radius: 20px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 16px 16px 40px;
+}
+.text__h1{
+    font-family: var(--font);
+    color: var(--DarkBlue);
+    text-align: center;
+    font-size: 22px;
+}
+
+.text__p{
+    font-family: var(--font);
+    color: var(--GrayishBlue);
+    font-size: 15px;
+    text-align: center;
+
+}
+
+/* Footer */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
