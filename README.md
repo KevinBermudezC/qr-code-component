@@ -60,7 +60,7 @@ I'll try to learn a better way to understand those tools, and I'll add framework
 
 - Website - [Kevin Bermudez](https://portafolio-kevin-rosy.vercel.app/index.html)
 - Frontend Mentor - [@KevinBermudezC](https://www.frontendmentor.io/profile/KevinBermudezC)
-- GitHub - [@yourusername](https://github.com/KevinBermudezC)
+- GitHub - [@KevinBermudezC](https://github.com/KevinBermudezC)
 
 
 
